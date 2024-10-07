@@ -1,0 +1,82 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 1143,
+      "versionNonce": 1147108081,
+      "isDeleted": false,
+      "id": "EwhkkjP-aPr-SKSS1n0ZC",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 40,
+      "y": 260,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#000000",
+      "width": 93.86533657022608,
+      "height": 74.03692962991249,
+      "seed": 850858111,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "q9jA8gvK6PET7RqucmgGO"
+        }
+      ],
+      "updated": 1728319188322,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 935,
+      "versionNonce": 1300247217,
+      "isDeleted": false,
+      "id": "q9jA8gvK6PET7RqucmgGO",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 60.86467512105054,
+      "y": 279.51846481495625,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "#000000",
+      "width": 52.135986328125,
+      "height": 35,
+      "seed": 1335797919,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1728319188350,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "API",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "EwhkkjP-aPr-SKSS1n0ZC",
+      "originalText": "API",
+      "lineHeight": 1.25,
+      "baseline": 25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "viewBackgroundColor": "#f5faff"
+  },
+  "files": {}
+}
