@@ -1,3 +1,0 @@
----
-- name: Ensure web servers are running
-  hosts: myhosts
